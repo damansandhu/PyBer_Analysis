@@ -5,9 +5,9 @@ The Pyber Analysis focuses on the relatationship between the type of city, numbe
 ![summary](https://raw.githubusercontent.com/damansandhu/PyBer_Analysis/main/PyBer_fare_summary.png)
 * Rural cities has the least amount of drivers, rides and total fares.
 * Urban cities have the most amount of drivers, rides and total fares.
-* Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
-* Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
-* Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
+* Suburban cities are in the middle having the second most drivers, rides and total fares.
+* Although rural cities see the least amount of drivers, rides and fares the have the highest average of fare per ride and fare per driver.
+* Although the urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
 ## Summary
 While we did not explore every city, we can put together an idea of what fares will be on a weekly bases based on the city type. Putting the cities into different categories will allow us to charge passengers rates accordingly. Rural areas require a higher fare due to less overall workers, travel time, and the distance is usually longer making the average fare per ride and river the greatest out of the three city types.
 ### Recommendations
